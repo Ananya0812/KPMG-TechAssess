@@ -1,2 +1,0 @@
-# KPMG-TechAssess
-Tech Assessment 
