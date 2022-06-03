@@ -1,7 +1,9 @@
+Hello,
+
 I have tried to give a demo on how to make an EC2 instance and a security group using Cloudformation.
-
 JSON template has been used as a script.
-
 Attached files include a visual diagram, JSON file template and screenshots of it's implementation in my AWS account.
-
 Based on the script, I have successfully managed to create EC2 instance and a security group
+
+Kind regards,
+Ananya Shah
