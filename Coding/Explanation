@@ -1,6 +1,9 @@
 Hello,
+
 I tried to create a short Python program to send an email using python.
-I couldn't run my program as I was unable to install pip in my computer, I have added the code here anyway. 
+Added sender and receiver email address in the code which also asks for password, and sends a message if sent successfully using Python.
+I used "server" variable to connect it to Gmail using smtplib.
+My idea was to run this session but smtplib wasn't installed on my computer and started facing issues with installing pip.
 
 Regards,
 Ananya Shah
