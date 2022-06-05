@@ -1,1 +1,7 @@
-Deploy to AWS using GitHub Actions - I was unable to perform this step.
+Topic - Deploy a static HTML website using CI/CD pipeline.
+
+I have tried to implement this using AWS CodeStar, a tool which configures AWS CodeBuild, CodeCommit and CodeDeploy and CodePipeline.
+
+After using the standard static HTML website template, I tried to edit and update it to see if the changes in source ccode repository triggers a new deploy.
+
+I have used CoeCommit repository, screenshots attached.
